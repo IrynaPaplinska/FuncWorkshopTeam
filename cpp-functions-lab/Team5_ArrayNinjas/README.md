@@ -1,4 +1,6 @@
-# 🧩 Завдання команди: Array Ninjas
+﻿# 🧩 Завдання команди: Array Ninjas
+![🧮 Майстер масиву](https://img.shields.io/badge/Array_Ninjas-Завдання_виконано-ffc3a0?style=for-the-badge&logo=github&logoColor=white)
+
 
 ## 📋 Завдання:
 
